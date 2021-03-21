@@ -1,0 +1,41 @@
+#tryone {
+    margin-left: 30px;
+}
+
+#nav-bar-color {
+    color: cornsilk;
+}
+
+.navbar {
+    background-color: #04020a;
+    color: white;
+}
+
+.nav-link {
+    color: rgb(207, 202, 202);
+}
+
+.quem-somos {
+    background-color:rgb(106, 46, 146);
+    color: whitesmoke;
+}
+
+.parceiros {
+    background-color: violet;
+    color: whitesmoke;
+}
+
+.servicos {
+    background-color:rgb(106, 46, 146);
+    color: whitesmoke;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: whitesmoke;
+}
